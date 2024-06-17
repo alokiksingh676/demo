@@ -1,4 +1,5 @@
 # demo
+
 my first github repository.
 <br>
-Author- Alokik Singh
+Author- Alokik Singh naruka
